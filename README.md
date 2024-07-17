@@ -1,4 +1,5 @@
-# brandonkwlo
+# Hi 👋 I'm Brandon Lo
+
 # 💫 About Me:
 I'm currently learning: Machine Learning and AI models, Quantum Computing, Contributing to Open Source<br>Fun Fact: Love to bodybuild, enthusiast of bouldering/climbing sports, and fan of movie+TV cinematography (especially IMAX)
 
