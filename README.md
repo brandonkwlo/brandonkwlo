@@ -3,6 +3,8 @@
 # 💫 About Me:
 I'm currently learning: Machine Learning and AI models, Quantum Computing, Contributing to Open Source<br>Fun Fact: Love to bodybuild, enthusiast of bouldering/climbing sports, and fan of movie+TV cinematography (especially IMAX)
 
+You can contact me at [my website!](https://www.brandonkwlo.com/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-lo-556a00169) 
