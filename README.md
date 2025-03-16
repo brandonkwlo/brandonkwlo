@@ -1,8 +1,8 @@
 ### Greetings traveler! What can I do for you?
 
 You: 
-- [x] Tell me about yourself
-_ [ ] I think this is the wrong Github profile
+- [x] Tell me about yourself <br>
+_ [ ] I think this is the wrong Github profile <br>
 _ [ ] Is this the You-Tubes?
 
 So you wanna learn more about me, ay? Sure!
