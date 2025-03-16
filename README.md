@@ -1,21 +1,20 @@
-# Greetings traveler! What can I do for you?
+### Greetings traveler! What can I do for you?
 
 You: 
-> Tell me about yourself
+- [x] Tell me about yourself
 _ [ ] I think this is the wrong Github profile
 _ [ ] Is this the You-Tubes?
 
 So you wanna learn more about me, ay? Sure!
 
-## About Me
 Recent grad building AI applications and projects using the latest technologies (or old ones to test out my knowledge).
 
-## Currently Learning 
+Currently Learning: 
 - Machine Learning and AI
 - Quant Finanace
 - Languages (Python, TS, Java, C++, English) -- trying to be a polyglot!
 
-## Fun Facts 
+Fun Facts: 
 - Strength training so I can finally open a water bottle
 - Fan of movie+TV cinematography (especially IMAX)
 - Self-proclaimed connoisseur of food
